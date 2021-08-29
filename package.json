@@ -1,0 +1,29 @@
+{
+  "name": "discord-bot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@discordjs/builders": "^0.6.0",
+    "@discordjs/opus": "^0.5.3",
+    "@discordjs/rest": "^0.1.0-canary.0",
+    "ban": "0.0.0",
+    "boyfriend": "^0.0.1",
+    "discord-api-types": "^0.22.0",
+    "discord-button": "^1.0.3",
+    "discord-buttons": "^4.0.0",
+    "discord.js": "^12.5.3",
+    "ffmpeg-static": "^4.4.0",
+    "lyrics-finder": "^21.7.0",
+    "noblox": "^4.8.5",
+    "weky": "^3.1.5",
+    "yt-search": "^2.10.0",
+    "ytdl-core": "^4.9.1",
+    "ythnotify": "^1.0.1"
+  }
+}
